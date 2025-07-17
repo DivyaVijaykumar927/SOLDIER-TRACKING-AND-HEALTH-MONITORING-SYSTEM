@@ -2,7 +2,7 @@
 
 ## Introduction  
 The **Soldier Tracking and Health Monitoring System** is an advanced solution that integrates **GPS tracking** and **biomedical sensors** with **RTOS (Real-Time Operating System)** for real-time monitoring of soldiers' health and location. The system ensures continuous tracking and provides immediate alerts when abnormal conditions, such as high heart rate, elevated temperature, or hazardous gas exposure, are detected.  
-
+Contributed in Opensource : https://github.com/DivyaVijaykumar927/first-contributions-divya
 ## Features  
 - **Real-time health monitoring** (Heart Rate, Temperature, and Gas Levels)  
 - **GPS-based location tracking** for real-time soldier positioning  
